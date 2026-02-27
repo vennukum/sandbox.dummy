@@ -1,0 +1,21 @@
+version: 2
+
+sources:
+  - name: hr_global
+    database: dev_raw
+    schema: hr_global
+    tables:
+      -name : ATTENDANCE
+
+      -name : DEPARTMENTS
+
+      -name : EMPLOYEES
+
+      -name : JOBS
+
+      -name : LOCATIONS
+
+      -name : SALARIES
+      
+
+      
