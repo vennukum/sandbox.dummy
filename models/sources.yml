@@ -5,17 +5,17 @@ sources:
     database: dev_raw
     schema: hr_global
     tables:
-      -name : ATTENDANCE
+      - name : ATTENDANCE
 
-      -name : DEPARTMENTS
+      - name : DEPARTMENTS
 
-      -name : EMPLOYEES
+      - name : EMPLOYEES
 
-      -name : JOBS
+      - name : JOBS
 
-      -name : LOCATIONS
+      - name : LOCATIONS
 
-      -name : SALARIES
+      - name : SALARIES
       
 
       
