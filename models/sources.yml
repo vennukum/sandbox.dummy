@@ -6,15 +6,10 @@ sources:
     schema: hr_global
     tables:
       - name : ATTENDANCE
-
       - name : DEPARTMENTS
-
       - name : EMPLOYEES
-
       - name : JOBS
-
       - name : LOCATIONS
-
       - name : SALARIES
       
 
